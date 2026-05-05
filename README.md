@@ -1,1 +1,1 @@
-# una-algprog-av-a1-unica
+Resolução da prova A1 da disciplina de Algoritimos e Programação Una
